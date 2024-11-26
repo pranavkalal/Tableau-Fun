@@ -8,7 +8,7 @@ This repository contains a Tableau dashboard and related files created as part o
 ### Dashboard Overview
 Below are the key visualizations included in this project:
 
-![Dashboard Overview](Dashboard1.png)
+![Dashboard Overview](d1.png)
 
 ---
 
