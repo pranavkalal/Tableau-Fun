@@ -48,13 +48,7 @@ Below are the key visualizations included in this project:
 ---
 
 ## 🖥️ Files in This Repository
-- `assignment.twbx`: Tableau Packaged Workbook.
-- `Dashboard1.png`, `Dashboard2.png`: Images of key dashboard visualizations.
-
----
-
-## 🌐 Tableau Public Link
-[View the Interactive Dashboard on Tableau Public]
+- `Substance-Abuse-Dashboard.twbx`: Tableau Packaged Workbook.
 
 ---
 
