@@ -4,7 +4,7 @@ This repository contains a Tableau dashboard and related files created as part o
 
 ---
 
-## 📊 Key Visualizations
+##  Key Visualizations
 ### Dashboard Overview
 Below are the key visualizations included in this project:
 
@@ -12,7 +12,7 @@ Below are the key visualizations included in this project:
 
 ---
 
-## 🚀 Features
+##  Features
 - Interactive dashboard created using Tableau.
 - Focuses on substance abuse-related crimes across various classifications.
 - Provides insights for three stakeholders:
@@ -22,7 +22,7 @@ Below are the key visualizations included in this project:
 
 ---
 
-## 🎯 Insights
+##  Insights
 1. **Substance Abuse Crime Trends**: 
    - Comparative analysis of crimes across regions and demographics.
    - Focus on predictive policing and community safety.
@@ -32,7 +32,7 @@ Below are the key visualizations included in this project:
 
 ---
 
-## 📌 Stakeholder Recommendations
+##  Stakeholder Recommendations
 ### For Mayor Jones:
 - Consult with community leaders to address substance abuse trends.
 - Implement socioeconomic support programs in high-risk areas.
@@ -47,18 +47,18 @@ Below are the key visualizations included in this project:
 
 ---
 
-## 🖥️ Files in This Repository
+##  Files in This Repository
 - `Substance-Abuse-Dashboard.twbx`: Tableau Packaged Workbook.
 
 ---
 
-## 🔒 Ethical Considerations
+##  Ethical Considerations
 - **Data Privacy**: Sensitive data was anonymized to protect individuals' identities.
 - **Transparency**: Insights were generated to inform responsible decision-making without stigmatizing affected communities.
 
 ---
 
-## 📚 Next Steps
+##  Next Steps
 1. Conduct further analysis on socioeconomic factors contributing to substance abuse.
 2. Expand the dataset to include more regions for a comprehensive view.
 3. Use predictive analytics to improve the efficiency of resource allocation.
