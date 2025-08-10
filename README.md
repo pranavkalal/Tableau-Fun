@@ -45,10 +45,6 @@ Below are the key visualizations included in this project:
 - Strengthen police response strategies based on local crime classifications.
 - Advocate for community engagement in crime reporting.
 
----
-
-##  Files in This Repository
-- `Substance-Abuse-Dashboard.twbx`: Tableau Packaged Workbook.
 
 ---
 
@@ -56,14 +52,6 @@ Below are the key visualizations included in this project:
 - **Data Privacy**: Sensitive data was anonymized to protect individuals' identities.
 - **Transparency**: Insights were generated to inform responsible decision-making without stigmatizing affected communities.
 
----
 
-##  Next Steps
-1. Conduct further analysis on socioeconomic factors contributing to substance abuse.
-2. Expand the dataset to include more regions for a comprehensive view.
-3. Use predictive analytics to improve the efficiency of resource allocation.
 
----
 
-## Author
-**Pranav**
